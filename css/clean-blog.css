@@ -169,7 +169,7 @@ header.masthead {
     text-align: center; }
     header.masthead .page-heading h1,
     header.masthead .site-heading h1 {
-      font-size: 100px;
+      font-size: 50px;
       margin-top: 0; }
     header.masthead .page-heading .subheading,
     header.masthead .site-heading .subheading {
@@ -182,7 +182,7 @@ header.masthead {
     @media only screen and (min-width: 768px) {
       header.masthead .page-heading h1,
       header.masthead .site-heading h1 {
-        font-size: 50px; } }
+        font-size: 800px; } }
   header.masthead .post-heading h1 {
     font-size: 35px; }
   header.masthead .post-heading .meta,
