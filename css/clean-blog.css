@@ -157,7 +157,7 @@ header.masthead {
   header.masthead .post-heading,
   header.masthead .site-heading {
     padding: 200px 0 150px;
-    color: red;
+    color: white;
     text-shadow: 10px 10px 10px black;}
     @media only screen and (min-width: 768px) {
       header.masthead .page-heading,
@@ -184,6 +184,7 @@ header.masthead {
       header.masthead .site-heading h1 {
         font-size: 80px; } }
   header.masthead .post-heading h1 {
+    color: red;
     font-size: 35px; }
   header.masthead .post-heading .meta,
   header.masthead .post-heading .subheading {
